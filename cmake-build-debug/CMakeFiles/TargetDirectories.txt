@@ -1,0 +1,3 @@
+C:/Users/Ikam/Documents/Emu/EmulationProject/cmake-build-debug/CMakeFiles/EmulationProject.dir
+C:/Users/Ikam/Documents/Emu/EmulationProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ikam/Documents/Emu/EmulationProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
